@@ -27,3 +27,7 @@ The first two are from two edX classes that I took:
 * `dbspace.py` - Returns the size of an Oracle database and the number of non-system objects
 
 * `backupremote.py` - Copy all the files in a directory tree down from a remote Linux server to a local Windows machine using sftp
+
+* `elapsedtoseconds.py` - Convert sqlplus elapsed time to seconds
+
+* `alternating.py` - Split a list of lines into two lists
